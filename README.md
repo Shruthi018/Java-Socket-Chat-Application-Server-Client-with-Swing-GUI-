@@ -18,7 +18,6 @@ It demonstrates how a **Server (Person1)** and **Client (Person2)** can exchange
 
 ## 📂 Project Structure
 ChatApp/
-
 ├── Person1.java # Server-side code
 
 ├── Person2.java # Client-side code
